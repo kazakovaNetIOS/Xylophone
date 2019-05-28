@@ -1,9 +1,9 @@
 //
 //  AppDelegate.swift
-//  Xylophone
+//  Dicee
 //
-//  Created by Angela Yu on 27/01/2016.
-//  Copyright © 2016 London App Brewery. All rights reserved.
+//  Created by Natalia Kazakova on 22/05/2019.
+//  Copyright © 2019 Natalia Kazakova. All rights reserved.
 //
 
 import UIKit
